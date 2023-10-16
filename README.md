@@ -14,6 +14,7 @@
 -   6 gesture recognizers are loaded by default, can also be [loaded on demand](docs/optional.md), core **1kb**, full **5kb**.
 -   **No dependencies, not limited to Vue / React / Angular etc...**
 
+
 ## Language
 [中文](README.CN.md) | **English**
 
